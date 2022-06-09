@@ -1,5 +1,5 @@
 ---
-title: "Sarah Downs"
+layout: default
 ---
  
  ## About Me
