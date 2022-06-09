@@ -30,13 +30,13 @@ layout: default
 - Implemented various neural network models
 - Applied Technical Skills: Python, MATLAB
 
-<span style="font-size:20px"> Research Intern, UC Irvine (June 2020 - August 2020)</span>
+<span style="font-size:20px"> <b>Research Intern, UC Irvine</b> (June 2020 - August 2020)</span>
 - Intern with the Center for Ecosystem Climate Solutions
 - Implemented machine learning algorithms with the goal of classifying forest disturbance given space-borne lidar data
 - Models created included logistic regression, random forests, support vector machines, and supervised neural networks
 - Applied Technical Skills: Python, GIS, Google Earth Engine
 
-<span style="font-size:20px"> Deep Learning Intern, Inteel Corporation (May 2019 - August 2019)</span>
+<span style="font-size:20px"> <b>Deep Learning Intern, Inteel Corporation</b> (May 2019 - August 2019)</span>
 - Worked on a project relating to the Intel Nervana Neural Network Processor
 - Created a telemetry device to display how well the processor could perform when running different machine learning workloads
 - Learned about deep learning tools, methods, and techniques
