@@ -11,6 +11,8 @@ I am a PhD student in Applied Mathematics at UC Merced, advised by Shilpa Khatri
 ## Contact
 
 Email: sdowns@ucmerced.edu
+
 LinkedIn: https://www.linkedin.com/in/sarah-downs-409/
+
 Github: https://github.com/sarahdowns409
 
