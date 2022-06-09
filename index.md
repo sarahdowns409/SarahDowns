@@ -14,4 +14,4 @@ Email: sdowns@ucmerced.edu
 
 LinkedIn: [https://www.linkedin.com/in/sarah-downs-409/](https://www.linkedin.com/in/sarah-downs-409/)
 
-Github: [https://github.com/sarahdowns409] (https://github.com/sarahdowns409)
+Github: [https://github.com/sarahdowns409](https://github.com/sarahdowns409)
