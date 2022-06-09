@@ -1,5 +1,5 @@
 title: Sarah Downs
 description: PhD student in Applied Math. Machine Learning, Optimization, Fluid Dynamics.
-show_downloads: true
-google_analytics:
+show_downloads: false
+google_analytics: 
 theme: jekyll-theme-cayman
