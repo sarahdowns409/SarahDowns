@@ -12,8 +12,6 @@ I am a PhD student in Applied Mathematics at UC Merced, advised by Shilpa Khatri
 
 Currently, my current research focuses on modeling the fluid flow created by pulsing corals. This fluid flow analysis is typically done numerically, but I aim to implement to implement neural networks to act as a surrogate for this process. I also hope to implement optimization techniques to find under what parameters the corals pulse to create the most fluid flow. 
 
-<br/><br/>
-
 # Contact
 
 Email: sdowns@ucmerced.edu
