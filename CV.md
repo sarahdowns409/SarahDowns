@@ -8,7 +8,7 @@ layout: default
 
 ## Education
 
-### Ph.D-- University of California, Merced (August 2020 - May 2025)
+<span style="font-weight:700;font-size:24px"> Ph.D-- University of California, Merced (August 2020 - May 2025)</span>
 - Doctoral student in Applied Mathematics
 - Focus of interest in the fields of machine learninig, neural networks, optimization, and fluid dynamics
 - GPA: 3.77
