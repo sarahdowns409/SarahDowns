@@ -14,7 +14,7 @@ Currently, my current research focuses on modeling the fluid flow created by pul
 
 <br/><br/>
 
-## Contact
+# Contact
 
 Email: sdowns@ucmerced.edu
 
