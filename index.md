@@ -3,10 +3,6 @@ title: "Sarah Downs"
 layout: default
 ---
 
-div {
-    overflow:hidden;
-}
-
 # About Me
 
 <img align="left" src="images/headshot.jpg" alt="Headshot" width="225"  style="margin:0px 50px 0px 0px"> 
