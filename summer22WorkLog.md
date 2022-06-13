@@ -60,7 +60,12 @@ layout: default
 		
 ## June 13 - June 17
 
-- 
+- Looking for papers on new implementation scheme. 
+	- <i> Irrotational or Divergence Free Interpolation </i>: Don't think that I'll be able to implement this paper, especially since it doesn't really go into how the scheme is devised
+	- <i> An Immersed Boundary Method with divergence-free velocity interpolation and force spreading </i>: Requires that we know mesh width, need to find a method that does not depend on mesh and is only based on distance
+	- <i> A novel interpolation-free sharp interface immersed boundary method </i>: Gets rid of need for interpolation altogether, but requires implementing an almost new method
+	- <i> An immersed boundary method for nonuniform grids </i>: Don't think this fits what I want, but unclear. Could keep in mind as a backup option
+	- <i> Radial basis function (RBF)- based interpolation and spreading for the Immersed Boundary Method </i>: Think that this method is what I want. Mesh-free meaning that weights are calculated only on the Euclidean distance. Gives condition to guarantee that it is divergence free. Not sure how hard it will be to implement, but will start here. 
 
 ## June 20 - June 24
 
